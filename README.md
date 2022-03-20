@@ -9,4 +9,6 @@
  -alerta para mostrar al ganador\
 
 **interfaz solo disponible para escritorio**
+![image](https://user-images.githubusercontent.com/70293539/159174662-a3dc267e-c615-444a-89f6-39973a72cb67.png)
+
 
